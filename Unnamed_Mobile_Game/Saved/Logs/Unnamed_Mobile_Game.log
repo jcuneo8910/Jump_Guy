@@ -1108,3 +1108,279 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.22-03.40.19:453][634]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/NewWorld4493559445479FA79B17D2972CF9C9AE.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Levels/NewWorld.umap'
 [2021.04.22-03.40.19:467][634]AssetCheck: New page: Asset Save: NewWorld
 [2021.04.22-03.40.19:467][634]LogContentValidation: Display: Validating World /Game/Levels/NewWorld.NewWorld
+[2021.04.22-08.06.31:602][ 79]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.22-08.06.32:107][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.22-08.06.33:661][ 81]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.22-08.06.33:670][ 82]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2021.04.22-08.06.34:162][ 82]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.22-09.35.52:121][ 91]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.22-09.35.52:147][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-09.35.52:147][ 91]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-10.02.29:244][112]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.22-10.02.29:421][112]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-10.02.29:422][112]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0F2686F-4452-59D0-BEA3-08B2022A9BDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1150d5ad4fd20c9da57cab8a488817d9%7Ca9ea9f97df614c5292023b37843294e9%7Cf82b575b-a3db-40cd-9c32-03bfab0aad14&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25ecc4a7eb0 [can pipeline])
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.195.160) port 443 (#0))
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.22-10.02.33:917][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.22-10.02.33:918][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.22-10.02.33:918][127]LogHttp: Warning: 0000025EB1DFF200: libcurl info message cache 7 (Closing connection 0)
+[2021.04.22-10.02.34:254][128]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0F2686F-4452-59D0-BEA3-08B2022A9BDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1150d5ad4fd20c9da57cab8a488817d9%7Ca9ea9f97df614c5292023b37843294e9%7Cf82b575b-a3db-40cd-9c32-03bfab0aad14&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.22-22.59.03:351][915]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.22-22.59.03:364][915]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.22-22.59.08:447][509]LogContentBrowser: Attempting asset rename: NewFolder -> WallJump
+[2021.04.22-22.59.08:451][509]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.22-23.00.12:207][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\Slide__000.png)
+[2021.04.22-23.00.12:249][741]LogTexture: Display: Building textures: Slide__000 (BGRA8, 373X351)
+[2021.04.22-23.00.24:065][938]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Character/Animations/Sprites/WallJump/Slide__000_Sprite.Slide__000_Sprite
+[2021.04.22-23.00.24:268][939]LogRenderer: Reallocating scene render targets to support 1264x572 Format 10 NumSamples 1 (Frame:1).
+[2021.04.22-23.00.35:046][205]LogSlate: Window 'Slide__000_Sprite' being destroyed
+[2021.04.22-23.00.35:052][205]LogSlate: Window 'Slide__000_Sprite' being destroyed
+[2021.04.22-23.00.35:053][205]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.00.35:053][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.00.38:266][489]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.04.22-23.00.38:266][489]LogContentBrowser: Deferred new asset file creation: Slide
+[2021.04.22-23.00.38:343][489]LogContentBrowser: Creating deferred item: Slide
+[2021.04.22-23.00.48:523][702]LogContentBrowser: Attempting asset rename: Slide -> WallJump
+[2021.04.22-23.00.48:523][702]LogContentBrowser: End creating deferred item Slide
+[2021.04.22-23.00.50:585][929]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Sprites/WallJump/WallJump.WallJump
+[2021.04.22-23.00.57:146][671]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.00.57:153][671]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.00.57:154][671]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.00.57:154][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.00.59:699][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.04.22-23.01.01:911][960]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.22-23.01.02:002][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.22-23.01.14:135][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\Slide__001.png)
+[2021.04.22-23.01.14:141][750]LogTexture: Display: Building textures: Slide__001 (BGRA8, 373X351)
+[2021.04.22-23.01.14:158][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\Slide__002.png)
+[2021.04.22-23.01.14:162][750]LogTexture: Display: Building textures: Slide__002 (BGRA8, 373X351)
+[2021.04.22-23.01.14:179][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\Slide__003.png)
+[2021.04.22-23.01.14:183][750]LogTexture: Display: Building textures: Slide__003 (BGRA8, 373X351)
+[2021.04.22-23.01.14:200][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\Slide__004.png)
+[2021.04.22-23.01.14:203][750]LogTexture: Display: Building textures: Slide__004 (BGRA8, 373X351)
+[2021.04.22-23.01.26:597][837]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.04.22-23.01.26:597][837]LogContentBrowser: Deferred new asset file creation: Slide
+[2021.04.22-23.01.26:608][837]LogContentBrowser: Creating deferred item: Slide
+[2021.04.22-23.01.28:797][ 78]LogContentBrowser: Attempting asset rename: Slide -> Slide
+[2021.04.22-23.01.28:798][ 78]LogContentBrowser: End creating deferred item Slide
+[2021.04.22-23.01.29:882][193]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Sprites/WallJump/Slide.Slide
+[2021.04.22-23.01.45:445][905]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/SlideB069613241D20CAE99412B846BE222F1.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/WallJump/Slide.uasset'
+[2021.04.22-23.01.45:463][905]AssetCheck: New page: Asset Save: Slide
+[2021.04.22-23.01.45:463][905]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Sprites/WallJump/Slide.Slide
+[2021.04.22-23.01.49:372][340]LogSlate: Window 'Slide' being destroyed
+[2021.04.22-23.01.49:377][340]LogSlate: Window 'Slide' being destroyed
+[2021.04.22-23.01.49:379][340]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.01.49:379][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.01.53:372][657]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide23E0A976488332027D6054A09763D336.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Flipbooks/Slide.uasset'
+[2021.04.22-23.01.53:449][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.22-23.01.53:475][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.22-23.01.53:487][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.22-23.01.53:552][657]AssetCheck: New page: Asset Save: Slide
+[2021.04.22-23.01.53:552][657]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Flipbooks/Slide.Slide
+[2021.04.22-23.02.01:920][531]LogContentBrowser: Attempting asset rename: Slide -> WallJump
+[2021.04.22-23.02.01:955][531]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump7DD266E940EDD50B8857D9A1A5F233BC.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Flipbooks/WallJump.uasset'
+[2021.04.22-23.02.02:029][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.22-23.02.02:049][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.04.22-23.02.02:062][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.22-23.02.02:087][531]AssetCheck: New page: Asset Save: WallJump
+[2021.04.22-23.02.02:087][531]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Flipbooks/WallJump.WallJump
+[2021.04.22-23.02.07:283][138]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Flipbooks/WallJump.WallJump
+[2021.04.22-23.03.01:500][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.04.22-23.03.01:503][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/NewWorld' took 0.018
+[2021.04.22-23.03.01:505][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/Slide__000] ([1] browsable assets)...
+[2021.04.22-23.03.01:509][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__000.Slide__000]
+[2021.04.22-23.03.01:509][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/Slide__000]
+[2021.04.22-23.03.01:516][512]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__000_Auto19FD8E1ED4D403236856D739F56FE92E7.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/Slide__000_Auto1.uasset'
+[2021.04.22-23.03.01:517][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/Slide__001] ([1] browsable assets)...
+[2021.04.22-23.03.01:521][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__001.Slide__001]
+[2021.04.22-23.03.01:521][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/Slide__001]
+[2021.04.22-23.03.01:529][512]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__001_Auto15B141528412D2DC4471432B7713D4E80.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/Slide__001_Auto1.uasset'
+[2021.04.22-23.03.01:530][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/Slide__002] ([1] browsable assets)...
+[2021.04.22-23.03.01:534][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__002.Slide__002]
+[2021.04.22-23.03.01:534][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/Slide__002]
+[2021.04.22-23.03.01:566][512]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__002_Auto1C8FD28034F4B01FA2D95E583E6B9A18B.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/Slide__002_Auto1.uasset'
+[2021.04.22-23.03.01:567][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/Slide__003] ([1] browsable assets)...
+[2021.04.22-23.03.01:571][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__003.Slide__003]
+[2021.04.22-23.03.01:571][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/Slide__003]
+[2021.04.22-23.03.01:573][512]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__003_Auto1D538914D4F9C6CD1FF4208B39DAD9F33.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/Slide__003_Auto1.uasset'
+[2021.04.22-23.03.01:574][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/Slide__004] ([1] browsable assets)...
+[2021.04.22-23.03.01:577][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__004.Slide__004]
+[2021.04.22-23.03.01:578][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/Slide__004]
+[2021.04.22-23.03.01:589][512]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__004_Auto19D5EE57C4F47E31EC2D55BA88FB5DBF5.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/Slide__004_Auto1.uasset'
+[2021.04.22-23.03.01:590][512]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.04.22-23.03.51:681][852]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.03.51:688][852]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.03.51:690][852]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.03.51:690][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.03.58:499][540]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Character/Animations/Sprites/WallJump/Slide__000.Slide__000
+[2021.04.22-23.03.58:539][540]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2021.04.22-23.08.47:605][932]LogSlate: Window 'Slide__000' being destroyed
+[2021.04.22-23.08.47:613][932]LogSlate: Window 'Slide__000' being destroyed
+[2021.04.22-23.09.03:867][416]Cmd: POLY SELECT ALL
+[2021.04.22-23.09.09:212][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__001E00C2BDF4F3F37A9DD4E1ABE21B628F2.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__001.uasset'
+[2021.04.22-23.09.09:221][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__004_Sprite31F1B4494507501356E3DB9F168A5E90.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__004_Sprite.uasset'
+[2021.04.22-23.09.09:229][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__003_Sprite06A5D3404E423C5A454C9AA64287638B.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__003_Sprite.uasset'
+[2021.04.22-23.09.09:238][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__002_Sprite6356ABAF49A99A5FBF42FDBBEDF6D442.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__002_Sprite.uasset'
+[2021.04.22-23.09.09:246][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__001_Sprite88A7F4D34ADC66FFF7D01D80EFB40E51.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__001_Sprite.uasset'
+[2021.04.22-23.09.09:260][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__000_Sprite5CFB6AE247AA8279FE028392A698A0E9.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__000_Sprite.uasset'
+[2021.04.22-23.09.09:273][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__0043AB7D8B446182BE90C5512BE5DA6A01E.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__004.uasset'
+[2021.04.22-23.09.09:291][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__00303A178184E9CB7AD0F9E45BADE12CB1F.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__003.uasset'
+[2021.04.22-23.09.09:331][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__000BBD2E6EE4CB340ED6E391789224900BA.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__000.uasset'
+[2021.04.22-23.09.09:381][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Slide__0029807975F4E04EDA58CA80592FB99C16E.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/Slide/Slide__002.uasset'
+[2021.04.22-23.09.09:711][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.22-23.09.09:786][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.22-23.09.09:799][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.22-23.09.09:812][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.22-23.09.09:823][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.22-23.09.09:835][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.22-23.09.09:847][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.22-23.09.09:859][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.22-23.09.09:871][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.22-23.09.09:882][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.22-23.09.09:899][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.04.22-23.09.09:911][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.22-23.09.09:933][987]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJumpF816A98A42C78466378B82A1004F06F2.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Flipbooks/WallJump.uasset'
+[2021.04.22-23.09.09:976][987]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating Texture2D /Game/Character/Animations/Sprites/Slide/Slide__001.Slide__001
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Flipbooks/WallJump.WallJump
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperSprite /Game/Character/Animations/Sprites/Slide/Slide__004_Sprite.Slide__004_Sprite
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperSprite /Game/Character/Animations/Sprites/Slide/Slide__003_Sprite.Slide__003_Sprite
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperSprite /Game/Character/Animations/Sprites/Slide/Slide__002_Sprite.Slide__002_Sprite
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperSprite /Game/Character/Animations/Sprites/Slide/Slide__001_Sprite.Slide__001_Sprite
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating PaperSprite /Game/Character/Animations/Sprites/Slide/Slide__000_Sprite.Slide__000_Sprite
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating Texture2D /Game/Character/Animations/Sprites/Slide/Slide__004.Slide__004
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating Texture2D /Game/Character/Animations/Sprites/Slide/Slide__003.Slide__003
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating Texture2D /Game/Character/Animations/Sprites/Slide/Slide__000.Slide__000
+[2021.04.22-23.09.09:976][987]LogContentValidation: Display: Validating Texture2D /Game/Character/Animations/Sprites/Slide/Slide__002.Slide__002
+[2021.04.22-23.09.25:518][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\WallJump__000.png)
+[2021.04.22-23.09.25:524][  4]LogTexture: Display: Building textures: WallJump__000 (BGRA8, 351X373)
+[2021.04.22-23.09.25:542][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\WallJump__001.png)
+[2021.04.22-23.09.25:544][  4]LogTexture: Display: Building textures: WallJump__001 (BGRA8, 351X373)
+[2021.04.22-23.09.25:562][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\WallJump__002.png)
+[2021.04.22-23.09.25:564][  4]LogTexture: Display: Building textures: WallJump__002 (BGRA8, 351X373)
+[2021.04.22-23.09.25:581][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\WallJump__003.png)
+[2021.04.22-23.09.25:586][  4]LogTexture: Display: Building textures: WallJump__003 (BGRA8, 351X373)
+[2021.04.22-23.09.25:604][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Unreal Engine\Projects\Unnamed_Mobile_Game\Unamed_Mobile_Game\Unnamed_Mobile_Game\Source\Sprites\png\WallJump__004.png)
+[2021.04.22-23.09.25:606][  4]LogTexture: Display: Building textures: WallJump__004 (BGRA8, 351X373)
+[2021.04.22-23.09.32:916][468]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.04.22-23.09.32:917][468]LogContentBrowser: Deferred new asset file creation: WallJump
+[2021.04.22-23.09.33:011][468]LogContentBrowser: Creating deferred item: WallJump
+[2021.04.22-23.09.35:125][713]LogContentBrowser: Attempting asset rename: WallJump -> WallJump
+[2021.04.22-23.09.35:125][713]LogContentBrowser: End creating deferred item WallJump
+[2021.04.22-23.09.36:233][831]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Sprites/WallJump/WallJump.WallJump
+[2021.04.22-23.09.38:727][ 71]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJumpCDDDB08043699C3311DBB1AF2F928C2F.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/WallJump/WallJump.uasset'
+[2021.04.22-23.09.38:769][ 71]AssetCheck: New page: Asset Save: WallJump
+[2021.04.22-23.09.38:769][ 71]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Sprites/WallJump/WallJump.WallJump
+[2021.04.22-23.09.44:954][764]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump55A2BA824F0EB251AC082A9BAB5D0253.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Sprites/WallJump/WallJump.uasset'
+[2021.04.22-23.09.44:966][764]AssetCheck: New page: Asset Save: WallJump
+[2021.04.22-23.09.44:966][764]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Sprites/WallJump/WallJump.WallJump
+[2021.04.22-23.09.45:988][883]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.09.45:992][883]LogSlate: Window 'WallJump' being destroyed
+[2021.04.22-23.09.45:995][883]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.09.45:995][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.09.53:228][511]LogSlate: Window 'Failed Renames' being destroyed
+[2021.04.22-23.09.56:333][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.22-23.09.57:542][857]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.22-23.09.57:609][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.04.22-23.09.57:630][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.04.22-23.09.57:642][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.22-23.10.04:505][480]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump4876C95D459A934A90D7CE97246B347C.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/Animations/Flipbooks/WallJump.uasset'
+[2021.04.22-23.10.04:577][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.22-23.10.04:598][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.22-23.10.04:609][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.22-23.10.04:640][480]AssetCheck: New page: Asset Save: WallJump
+[2021.04.22-23.10.04:640][480]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Animations/Flipbooks/WallJump.WallJump
+[2021.04.22-23.10.26:615][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.04.22-23.13.01:977][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.22-23.13.01:978][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/NewWorld' took 0.023
+[2021.04.22-23.13.01:979][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/WallJump__000] ([1] browsable assets)...
+[2021.04.22-23.13.02:080][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/WallJump__000.WallJump__000]
+[2021.04.22-23.13.02:080][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/WallJump__000]
+[2021.04.22-23.13.02:083][247]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump__000_Auto2FE0E75B641113B3B544CE5ABD91D7D2F.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/WallJump__000_Auto2.uasset'
+[2021.04.22-23.13.02:085][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/WallJump__001] ([1] browsable assets)...
+[2021.04.22-23.13.02:088][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/WallJump__001.WallJump__001]
+[2021.04.22-23.13.02:088][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/WallJump__001]
+[2021.04.22-23.13.02:098][247]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump__001_Auto2E6914ED9456843D75FF0648063D9B480.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/WallJump__001_Auto2.uasset'
+[2021.04.22-23.13.02:099][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/WallJump__002] ([1] browsable assets)...
+[2021.04.22-23.13.02:103][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/WallJump__002.WallJump__002]
+[2021.04.22-23.13.02:103][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/WallJump__002]
+[2021.04.22-23.13.02:109][247]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump__002_Auto23E7A809341E331E6962179820650DC41.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/WallJump__002_Auto2.uasset'
+[2021.04.22-23.13.02:110][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/WallJump__003] ([1] browsable assets)...
+[2021.04.22-23.13.02:113][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/WallJump__003.WallJump__003]
+[2021.04.22-23.13.02:113][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/WallJump__003]
+[2021.04.22-23.13.02:124][247]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump__003_Auto2C72341144AD209050EF39F9B9C3672C9.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/WallJump__003_Auto2.uasset'
+[2021.04.22-23.13.02:125][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/WallJump/WallJump__004] ([1] browsable assets)...
+[2021.04.22-23.13.02:128][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/WallJump/WallJump__004.WallJump__004]
+[2021.04.22-23.13.02:128][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/WallJump/WallJump__004]
+[2021.04.22-23.13.02:137][247]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/WallJump__004_Auto262652619436619321509F7BC009F790E.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/Autosaves/Game/Character/Animations/Sprites/WallJump/WallJump__004_Auto2.uasset'
+[2021.04.22-23.13.02:138][247]LogFileHelpers: Auto-saving content packages took 0.159
+[2021.04.22-23.16.40:033][295]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.04.22-23.16.40:110][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.22-23.16.40:202][295]LogSlate: Took 0.009673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.22-23.16.40:892][339]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/2DSideScrollerCharacter14CBEE0B4ECC0044C17EC9A157B4BB9B.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Character/2DSideScrollerCharacter.uasset'
+[2021.04.22-23.16.40:909][339]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.04.22-23.16.40:909][339]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.04.22-23.16.42:696][472]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.04.22-23.16.42:700][472]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.04.22-23.16.42:705][472]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.16.42:705][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.16.44:672][690]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.22-23.16.44:686][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.22-23.16.44:686][690]PIE: New page: PIE session: NewWorld (Apr 22, 2021, 9:16:44 AM)
+[2021.04.22-23.16.44:686][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewWorld
+[2021.04.22-23.16.44:696][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009810s)
+[2021.04.22-23.16.44:698][690]LogAIModule: Creating AISystem for world NewWorld
+[2021.04.22-23.16.44:698][690]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2021.04.22-23.16.44:698][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewWorld.NewWorld to /Game/Levels/UEDPIE_0_NewWorld.NewWorld (0.011306s)
+[2021.04.22-23.16.44:715][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.04.22-23.16.44:717][690]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.22-23.16.44:717][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.22-23.16.44:717][690]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.22-23.16.44:717][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.22-23.16.44:721][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-23.16.44:721][690]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-23.16.44:728][690]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.22-23.16.44:729][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.22-23.16.44:729][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.22-23.16.44:729][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.22-23.16.44:729][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.22-23.16.44:729][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.22-23.16.44:729][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.22-23.16.44:741][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.22-23.16.44:741][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.22-23.16.44:741][690]LogInit: FAudioDevice initialized.
+[2021.04.22-23.16.44:741][690]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewWorld'.
+[2021.04.22-23.16.44:757][690]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.04.22-23.16.44:765][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.04.22-16.16.44
+[2021.04.22-23.16.44:765][690]LogWorld: Bringing up level for play took: 0.007053
+[2021.04.22-23.16.44:766][690]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.22-23.16.44:770][690]PIE: Server logged in
+[2021.04.22-23.16.44:771][690]PIE: Play in editor total start time 0.087 seconds.
+[2021.04.22-23.19.37:484][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-23.19.37:484][389]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewWorld
+[2021.04.22-23.19.37:485][389]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-23.19.37:486][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.19.37:492][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.22-23.19.37:496][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-23.19.37:510][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.22-23.19.37:510][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.22-23.19.37:511][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.22-23.19.37:523][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-23.19.37:526][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.04.22-23.19.37:561][391]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.22-23.20.04:948][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.22-23.20.04:985][669]LogSavePackage: Moving 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Saved/NewWorld59B4E34F472AD53B5742A2A2B46A9A85.tmp' to 'D:/Unreal Engine/Projects/Unnamed_Mobile_Game/Unamed_Mobile_Game/Unnamed_Mobile_Game/Content/Levels/NewWorld.umap'
+[2021.04.22-23.20.05:001][669]AssetCheck: New page: Asset Save: NewWorld
+[2021.04.22-23.20.05:001][669]LogContentValidation: Display: Validating World /Game/Levels/NewWorld.NewWorld
